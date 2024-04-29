@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color-scheme: dark;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+}
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+}
